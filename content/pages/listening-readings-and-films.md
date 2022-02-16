@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Listening, Readings and Films
 uid: c7a28f8b-4d01-0dc5-d136-cf89051b1d0b
 ---
