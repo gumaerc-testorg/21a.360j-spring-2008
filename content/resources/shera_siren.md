@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d6c90c72-1fe2-1d60-02db-d830d5bf4577
 resourcetype: Document
 title: Siren
 uid: 7b1036ee-9a34-a08a-f22b-f95a853c0d40
