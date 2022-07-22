@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the three writing assignments of
+  the course along with exemplary student papers.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: d6c90c72-1fe2-1d60-02db-d830d5bf4577
 ---
@@ -13,7 +18,7 @@ For this paper, choose a word describing a particular kind of sound — e.g., ri
 
 ### Exemplary Student Papers
 
-Shera, Katherine. "Siren." ([PDF]({{< baseurl >}}/resources/shera_siren))
+Shera, Katherine. "Siren." ({{% resource_link 7b1036ee-9a34-a08a-f22b-f95a853c0d40 "PDF" %}})
 
 Sound Technology
 ----------------
