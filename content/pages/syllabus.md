@@ -203,7 +203,7 @@ Soundscapes, revisited through sound sculpture
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Beth Coleman](http://cms.mit.edu/people/bcoleman/), Comparative Media Studies, MIT
+{{% resource_link "435eec45-abc0-4bb7-8e30-b226a37dec88" "Beth Coleman" %}}, Comparative Media Studies, MIT
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -233,7 +233,7 @@ Kieran Downes, History, Anthropology, and Science, Technology, and Society, MIT
 Sound, culture, property
 {{< tdclose >}}
 {{< tdopen >}}
-[Ian Condry](https://anthropology.mit.edu/people/faculty/ian-condry), Foreign Languages and Literatures, MIT
+{{% resource_link "ff9ad382-57f9-4750-bd4d-0062337fbb76" "Ian Condry" %}}, Foreign Languages and Literatures, MIT
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -248,7 +248,7 @@ Sound, culture, property
 A political economy of sound and noise
 {{< tdclose >}}
 {{< tdopen >}}
-[Andres Lombana](http://www.andreslombana.net/), Comparative Media Studies, MIT
+{{% resource_link "d125973c-a7d1-41da-bf55-d521f66560ec" "Andres Lombana" %}}, Comparative Media Studies, MIT
 {{< tdclose >}}
 {{< tdopen >}}
  
